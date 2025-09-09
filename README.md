@@ -90,7 +90,7 @@ Writing report...
 
 [Generated research report appears here]
 
-TODO
+## TODO
 
  Add PDF export of final report
 
