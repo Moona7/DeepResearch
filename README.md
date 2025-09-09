@@ -11,7 +11,7 @@ This agent automates deep academic research:
 1. **Breaks down** user topic into focused sub-queries.
 2. **Searches** academic tools (Arxiv + Academic Search).
 3. **Extracts** and **ranks** relevant content.
-4. **Writes** a clean research report with citations.
+4. **Writes** a clean research report with citations (title and url).
 
 ---
 
