@@ -95,10 +95,10 @@ Writing report...
  Add PDF export of final report
 
 
-📜 License
+## License
 MIT — free for personal and academic use.
 
-🤝 Credits
+## Credits
 LangGraph
 
 LangChain
