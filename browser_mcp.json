@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"]
+    },
+    "arxiv-mcp-server": {
+      "command": "uv",
+      "args": [
+          "tool",
+          "run",
+          "arxiv-mcp-server",
+          "--storage-path", "C:/Users/Muna/Desktop/AgenticAI/DeepResearch/arxiv_storage"
+      ]
+    },
+    "academic-search": {
+      "command": "uv",
+      "args": ["run", "C:/Users/Muna/Desktop/AgenticAI/academic-search-mcp-server/server.py"],
+      "env": {
+        "SEMANTIC_SCHOLAR_API_KEY": "${SEMANTIC_SCHOLAR_API_KEY}",
+        "CROSSREF_API_KEY": "${CROSSREF_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+langchain-groq
+langchain-mcp-adapters
+mcp-use
+dotenv
+langgraph
+langchain
+mcp[cli] httpx
